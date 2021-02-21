@@ -1,0 +1,43 @@
+.nav-link{
+    color: white !important;
+}
+.navbar-brand{
+    color: white !important;
+}
+.rounded-circle{
+    width: 200px;
+    height: 200px;
+}
+.details-table{
+    border: 2px solid black;
+}
+.jumbotron{
+    margin-bottom: 0;
+}
+
+#about{
+    background-color: #ed335f;
+    color: white;
+}
+#skills{
+    background-color: #c32961;
+    color: white;
+}
+.card-title{
+    color: black;
+}
+.card-text{
+    color: black;
+}
+.progress-bar{
+    background-color: #810437;
+}
+#education{
+    background-color: #ed335f;
+}
+#achievements{
+    background-color: #810437;
+}
+#footer{
+    background-color: #f9858b;
+}
